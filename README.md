@@ -52,8 +52,8 @@ Data sources include:
 
 * Historical transaction data from banks (both normal and fraudulent)
 * User behavior patterns (e.g., typical transaction amounts, frequency, locations)
-* We'll utilize supervised machine learning models, specifically deep learning architectures like LSTM (Long Short-Term Memory) due to their proficiency with sequence data, combined with features extracted using traditional methods.
-* Scikit-learn and TensorFlow will be instrumental in model development.
+* We'll utilize supervised machine learning models, specifically deep learning architectures like LSTM (Long Short-Term Memory) due to their capabilities to work with sequence data, combined with features extracted using traditional methods.
+* Scikit-learn and TensorFlow will be used in model development.
 
 ## Challenges
 1. Balancing between false positives and false negatives
@@ -67,7 +67,11 @@ Data sources include:
 
 ## Acknowledgments
 [Twitter API](https://developer.twitter.com/en/docs)
+
 [Kaggle's Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data) - for initial prototyping and testing.
+
 Scholary articles on financial fraud detection from [arXiv](https://arxiv.org/)
+
 Images: Canva, DALL-E 3
+
 Sklearn tutorial: [ioflood](https://ioflood.com/blog/train-test-split-sklearn/)
