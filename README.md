@@ -19,7 +19,7 @@ Banks and financial institutions would integrate this system into their existing
 ![Transaction Analysis Flow](transaction-flow.png)
 
 Code example:
-```
+```python
 import pandas as pd
 from sklearn.ensemble import IsolationForest
 from sklearn.model_selection import train_test_split
