@@ -1,6 +1,7 @@
 # FinTAD
 Financial Transaction Anomaly Detector
-Final project for the Building AI course
+
+For the Building AI course project
 
 ## Summary
 FinTAD is an AI-driven system that analyzes and flags suspicious transactions in real-time to prevent fraudulent activities in banking systems. It scores the risk associated with every transaction, and raises an alert if a certain threshold was achieved. By learning from historical transaction data and adapting to new patterns, this solution reduces false positives, strengthening the security and trust aspects of the business.
